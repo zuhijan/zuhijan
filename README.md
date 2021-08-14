@@ -5,12 +5,8 @@
 <img src="https://raw.githubusercontent.com/zuhijan/zuhijan/master/siberian.gif">
 
 ## About
-Frontend Developer from Russia, living in Saint-Petersburg and currently working at ITMO. Last year I worked with TypeScript, React, Redux.
-At the work usually a used to ![](https://img.shields.io/badge/GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=black) and less often ![](https://img.shields.io/badge/Bitbacket-informational?style=flat&logo=bitbucket&logoColor=white)
-
-### Contacts: 
-
-
+Frontend Developer from Russia, living in Saint-Petersburg and currently working at ITMO. Last year I working with TypeScript, React, Redux.
+At work usually a used to ![](https://img.shields.io/badge/GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=black) and less often ![](https://img.shields.io/badge/Bitbacket-informational?style=flat&logo=bitbucket&logoColor=white)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6D48D7)
@@ -23,6 +19,19 @@ At the work usually a used to ![](https://img.shields.io/badge/GitLab-informatio
 
 ## 📌 Projects
 ##### Here some project which opened and located on github:
+
+
+- fedot
+- stellar-burger
+- sum42
+- raklechitca
+- news-expolorer
+- news-explorer-api
+- photo_site
+- bestBuddies
+- agungAgency
+- tebePoveryat
+- uValery
 
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6D48D7)
 ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6D48D7)
