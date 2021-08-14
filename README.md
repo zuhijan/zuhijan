@@ -1,6 +1,6 @@
 ### Hi, I'm Egor  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src="https://miro.medium.com/max/4964/1*waXP8UwRYpQ4LJQWFBtpkw.gif">
+<img src="https://raw.githubusercontent.com/zuhijan/zuhijan/master/siberian.gif">
 
 <!--
 **zuhijan/zuhijan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
