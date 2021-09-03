@@ -20,7 +20,7 @@ At work usually a used to ![](https://img.shields.io/badge/GitLab-informational?
 
 ## 📌 Projects
 ##### Here some project which opened and located on github:
-- [:hamburger: Stellar-burger](https://github.com/zuhijan/stellar-burgers) (2021)
+- [:hamburger: Stellar-burger](https://github.com/zuhijan/stellar-burgers) (2021)  
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=%23F7DF1E&color=grey)
 ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=61DBFB&color=grey)
