@@ -17,14 +17,3 @@ At work usually a used to ![](https://img.shields.io/badge/GitLab-informational?
 ![](https://img.shields.io/badge/-HTML5-informational?style=flat&logo=html5&logoColor=white&color=e34c26)
 ![](https://img.shields.io/badge/-SASS-informational?style=flat&logo=SASS&logoColor=white&color=hotpink)
 ![](https://img.shields.io/badge/-WebSockets-informational?style=flat&logo=socket&logoColor=white&color=e34c26)
-
-## 📌 Projects
-##### Here some project which opened and located on github:
-- [:hamburger: Stellar-burger](https://github.com/zuhijan/stellar-burgers) (2021)  
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=%23F7DF1E&color=grey)
-![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007acc)
-![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=61DBFB&color=grey)
-![](https://img.shields.io/badge/-React_Router-informational?style=flat&logo=react-router&logoColor=white&color=CA4245)
-![](https://img.shields.io/badge/-Redux-informational?style=flat&logo=redux&logoColor=white&color=764abc)
-![](https://img.shields.io/badge/-SASS-informational?style=flat&logo=SASS&logoColor=white&color=hotpink)
-![](https://img.shields.io/badge/-WebSockets-informational?style=flat&logo=socket&logoColor=white&color=e34c26)
