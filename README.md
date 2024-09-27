@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/zuhijan/zuhijan/master/siberian.gif">
 
 ## About Me
-Frontend Developer. During the last year I working with ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007acc), ![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=61DBFB&color=grey), ![](https://img.shields.io/badge/-Redux-informational?style=flat&logo=redux&logoColor=white&color=764abc).
+Frontend Developer. During the last years I working with ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007acc), ![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=61DBFB&color=grey), ![](https://img.shields.io/badge/-Redux-informational?style=flat&logo=redux&logoColor=white&color=764abc).
 At work usually a used to ![](https://img.shields.io/badge/GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=black) and less often ![](https://img.shields.io/badge/Bitbacket-informational?style=flat&logo=bitbucket&logoColor=white)
 
 ## 🔧 Technologies & Tools
